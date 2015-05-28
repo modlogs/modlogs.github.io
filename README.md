@@ -1,8 +1,8 @@
-# [modlog.github.io](https://modlog.github.io)
+# [modlogs.github.io](https://modlogs.github.io)
 
 Transparency for reddit
 
-See: https://github.com/ModLog/site For source code
+See: https://github.com/modlogs/site For source code
 
 ---
 
